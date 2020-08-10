@@ -1,0 +1,17 @@
+{
+  "name": "react-antd-admin-vuepress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liuzhao2580",
+  "license": "ISC"
+}
